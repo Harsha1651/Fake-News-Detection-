@@ -8,11 +8,16 @@ The Fake News Detection System is a comprehensive solution designed to automatic
 
 ## Objectives
 
-###Accurate Classification:<br> Achieve high accuracy in distinguishing between fake and real news articles.
-###Real-time Detection:<br> Provide timely identification of fake news for immediate action and mitigation.
-###Explainability: <br>Ensure the model's decisions are transparent and interpretable by users.
-###Scalability: <br>Design the system to handle large volumes of news articles efficiently.
-###Robustness: <br>Maintain performance across different news sources, topics, and formats.
+### Accurate Classification:
+Achieve high accuracy in distinguishing between fake and real news articles.
+### Real-time Detection:
+  Provide timely identification of fake news for immediate action and mitigation.
+### Explainability: 
+  Ensure the model's decisions are transparent and interpretable by users.
+### Scalability: 
+  Design the system to handle large volumes of news articles efficiently.
+### Robustness: 
+  Maintain performance across different news sources, topics, and formats.
 
 Download the dataset from "https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection"<br> 
 
